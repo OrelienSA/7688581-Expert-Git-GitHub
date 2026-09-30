@@ -1,4 +1,4 @@
-# Open Transport (Modification pour créer un conflit)
+# Open Transport (ne rien faire)
 
 Application web pour covoiturage. 
 
