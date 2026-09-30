@@ -1,4 +1,4 @@
-# Open Transport (ne rien faire)
+# Open Transport
 
 Application web pour covoiturage. 
 
